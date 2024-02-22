@@ -154,6 +154,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <a href="https://github.com/shahariaryan/forkify-v1.01"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=shahariaryan&repo=forkify-v1.01&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/shahariaryan/mapty-v1-00"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=shahariaryan&repo=mapty-v1-00&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
+    <p align="center">&#8192;</p>
+  <p style="width: 100%;" align="center">
+    <a href="https://github.com/shahariaryan/Omnifood-Application"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=shahariaryan&repo=Omnifood-Application&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/shahariaryan/Ecommerce-Website-"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=shahariaryan&repo=Ecommerce-Website-&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+  </p>
 </p>
 
 <p align="center">&#8192;</p>
