@@ -97,7 +97,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
 <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
-<code><a href="https://tailwindcss.com/"><img alt="TailwindCSS" title="Tailwind" src="./assets/download.svg" height="42"></a></code>
+<code><a href="https://tailwindcss.com/"><img alt="TailwindCSS" title="Tailwind" src="./assets/Tailwind_CSS_Logo.svg.png" height="42"></a></code>
 <code><a href="https://github.com"><img alt="Github" title="Github" src="./assets/github.png" height="42"></a></code>
 <code><a href="https://git.com"><img alt="Git" title="Github" src="./assets/git-icon-1024x1024-pqp7u4hl.png" height="42"></a></code>  
 <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
@@ -110,7 +110,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <p align="center">
 <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
 <code><a href="https://nextjs.org/"><img alt="NextJS" title="NextJS" src="./assets/nextjs.png" height="42"></a></code>
-<code><a href="https://nodejs.org/en"><img alt="nodeJS" title="ExpressJS" src="./assets/png-clipart-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-thumbnail.png" height="42"></a></code>
+<code><a href="https://nodejs.org/en"><img alt="nodeJS" title="ExpressJS" src="./assets/imgbin-web-development-node-js-socket-io-javascript-network-socket-modernization-Sr0hTsLVaFu6MFPMMkeNKUEaH.png" height="42"></a></code>
 <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
 <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
 
