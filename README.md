@@ -1,15 +1,6 @@
-<!--
-GIF SECTION
 
-If you wanna know how i made this gif
 
-I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
-There i made and page with the GIF content, later i record my screen with OBS
-after that i converter the video from mp4 to gif
-ur welcome ;)
--->
-
-<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
+<a href="https://github.com/shahariaryan">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
@@ -34,9 +25,9 @@ ur welcome ;)
 Eyyyy!!! <br />
 I am <b>Fozlur Rahman</b> better known as 'Shah'🕵🏼‍♂️ <br />
 I am from <strong>Dhaka, Bangladesh</strong> ☕☕ <br />
-I'm a guy who love develop new things 🖥️ <br />
+I'm a guy who loves to develop new things 🖥️ <br />
 So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
+If you are interested in a guy with a good vibe who loves knowledge and constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/>
 
