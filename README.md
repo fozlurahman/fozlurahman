@@ -122,8 +122,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
 <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
 <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
-<code><a href="https://www.figma.com/"><img alt="Figma" title="Vs code" src="./assets/figma.png" height="42"></a></code>
-<code><a href="https://www.notion.so/"><img alt="Notion" title="Vs code" src="./assets/notion.png" height="42"></a></code>
+<code><a href="https://www.figma.com/"><img alt="Figma" title="Vs code" src="./assets/figmaa.png" height="42"></a></code>
+<code><a href="https://www.notion.so/"><img alt="Notion" title="Vs code" src="./assets/notionn.png" height="42"></a></code>
   
 </p>
 <br>
