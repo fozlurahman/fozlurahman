@@ -23,7 +23,7 @@
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
 Eyyyy!!! <br />
-I am <b>Fozlur Rahman</b> better known as 'Shah'🕵🏼‍♂️ <br />
+I am <b>Fozlur Rahman,</b> better known as 'Shah'🕵🏼‍♂️ <br />
 I am from <strong>Dhaka, Bangladesh</strong> ☕☕ <br />
 I'm a guy who loves to develop new things 🖥️ <br />
 So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
