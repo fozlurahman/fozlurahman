@@ -123,10 +123,10 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
 <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
 <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
-<code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/sublime.png" height="42"></a></code>
-<code><a href="https://www.npmjs.com"><img alt="NPM" title="Figma" src="./assets/figma.png" height="42"></a></code>
-<code><a href="https://www.npmjs.com"><img alt="NPM" title="Notion" src="./assets/notionn.png" height="42"></a></code>
-<code><a href="https://www.npmjs.com"><img alt="NPM" title="Notion" src="./assets/postman.png" height="42"></a></code>
+<code><a href="https://www.sublimetext.com/"><img alt="Vs code" title="Vs code" src="./assets/sublime.png" height="42"></a></code>
+<code><a href="https://www.figma.com"><img alt="NPM" title="Figma" src="./assets/figma.png" height="42"></a></code>
+<code><a href="https://www.notion.so/"><img alt="Notion" title="Notion" src="./assets/notion.png" height="42"></a></code>
+<code><a href="https://www.postman.com/"><img alt="Postman" title="Postman" src="./assets/postman.png" height="42"></a></code>
   
 </p>
 <br>
