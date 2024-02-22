@@ -1,6 +1,6 @@
 
 
-<a href="https://github.com/shahariaryan">![Shah's Profile GIF](./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)</a>
+<a href="https://github.com/shahariaryan">![Shah's Profile GIF](./assets/eb50875a68b04b0480fa929af2c7547c.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
