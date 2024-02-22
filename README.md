@@ -28,7 +28,7 @@ I am from <strong>Dhaka, Bangladesh</strong> ☕☕ <br />
 I'm a guy who loves to develop new things 🖥️ <br />
 So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
 If you are interested in a guy with a good vibe who loves knowledge and constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
-Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
+Contact me for new projects 📨, I am open to collaborate with you.
 <br/><br/>
 
 <!-- Bogota's weather table -->
@@ -58,7 +58,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I have a Bachelor's degree in Computer Science and Engineering at the  American International University-Bangladesh
+          🎓 I have a Bachelor's degree in Computer Science and Engineering at the  American International University-Bangladesh
         </li>
         <li>
           🤝 I’m looking to collaborate on Open Source projects
