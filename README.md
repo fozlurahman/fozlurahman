@@ -67,10 +67,10 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I recently graduated from American International University-Bangladesh
+          🔭 I have a Bachelor's degree in Computer Science and Engineering at the  American International University-Bangladesh
         </li>
         <li>
-          🤝 I’m looking to collaborate on Open Source Proyects
+          🤝 I’m looking to collaborate on Open Source projects
         </li>
         <li>
           🌱 I’m currently learning React & NextJS; 
@@ -79,7 +79,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/shahariaryan?tab=repositories)
         </li>
         <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+          💬 Ask me about anything tech related, and I am happy to help (if you have questions about linux you can ask me🐧);
         </li>
         <li>
           📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/fozlur-rahman-98419a190/)
@@ -98,7 +98,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 </table>
 <br><br><br>
 
-<!-- languajes and skills section -->
+<!-- languages and skills section -->
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
@@ -147,11 +147,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- Projects section -->
 
-## 📘 My top open source projects
+## 📘 My top open-source projects
 
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <p style="widht: 100%;" align="center">
+  <p style="width: 100%;" align="center">
     <a href="https://github.com/shahariaryan/forkify-v1.01"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=shahariaryan&repo=forkify-v1.01&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/shahariaryan/mapty-v1-00"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=shahariaryan&repo=mapty-v1-00&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
