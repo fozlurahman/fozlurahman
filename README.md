@@ -1,6 +1,6 @@
 
 
-<a align=center; href="https://github.com/shahariaryan">![Shah's Profile GIF](./assets/profile_presentation.gif)</a>
+<a align=center; href="https://github.com/fozlurahman">![Shah's Profile GIF](./assets/profile_presentation.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
@@ -67,7 +67,7 @@ Contact me for new projects 📨, I am open to collaborate with you.
           🌱 I’m currently learning React & NextJS; 
         </li>
         <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/shahariaryan?tab=repositories)
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/fozlurahman?tab=repositories)
         </li>
         <li>
           💬 Ask me about anything tech related, and I am happy to help (if you have questions about linux you can ask me🐧);
@@ -138,8 +138,8 @@ Contact me for new projects 📨, I am open to collaborate with you.
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="shahariaryan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shahariaryan&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="shahariaryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariaryan&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="fozlurahman's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=fozlurahman&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="fozlurahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozlurahman&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
@@ -151,13 +151,13 @@ Contact me for new projects 📨, I am open to collaborate with you.
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <p style="width: 100%;" align="center">
-    <a href="https://github.com/shahariaryan/forkify-v1.01"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=shahariaryan&repo=forkify-v1.01&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/shahariaryan/mapty-v1-00"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=shahariaryan&repo=mapty-v1-00&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/fozlurahman/forkify-v1.01"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=fozlurahman&repo=forkify-v1.01&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/fozlurahman/mapty-v1-00"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=fozlurahman&repo=mapty-v1-00&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
     <p align="center">&#8192;</p>
   <p style="width: 100%;" align="center">
-    <a href="https://github.com/shahariaryan/Omnifood-Application"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=shahariaryan&repo=Omnifood-Application&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/shahariaryan/Ecommerce-Website-"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=shahariaryan&repo=Ecommerce-Website-&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+    <a href="https://github.com/fozlurahman/Omnifood-Application"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=fozlurahman&repo=Omnifood-Application&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/fozlurahman/Ecommerce-Website-"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=fozlurahman&repo=Ecommerce-Website-&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
   </p>
 </p>
 
