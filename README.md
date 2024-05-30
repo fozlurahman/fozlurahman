@@ -79,7 +79,7 @@ Contact me for new projects 📨, I am open to collaborate with you.
           🎷 When I am free, I like to play Video games 
         </li>
         <li>
-          📝 Checkout my [Page](https://fozlur-dev.netlify.app/) 
+          📝 Checkout my [Page](https://fozlur-dev.vercel.app/)
         </li>
     </td>
     <td style="border: none;">
